@@ -1,6 +1,7 @@
 #!/bin/bash 
-mkdir -p /etc/puppet/modules; 
+#mkdir -p /etc/puppetlabs/code/environments/production/modules; 
 
-if [ ! -d /etc/puppet/modules/puppet-r ]; then 
-	puppet module install forward3ddev-r
-fi
+puppet module install forward3ddev-r
+puppet module install puppetlabs-java
+
+

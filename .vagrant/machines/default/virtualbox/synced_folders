@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/VirtualBox VMs/vagrant_2","disabled":false},"/tmp/vagrant-puppet/environments":{"owner":"root","nfs__quiet":true,"guestpath":"/tmp/vagrant-puppet/environments","hostpath":"E:/VirtualBox VMs/vagrant_2/puppet/environments","disabled":false}}}
